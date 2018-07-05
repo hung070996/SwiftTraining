@@ -58,3 +58,10 @@ let names = ["Le", "Tuan", "Leo", "Hulk"]
 names.forEach { name in
     print("Name:", name)
 }
+
+// 10. while
+var x = 1
+while x < 4 {
+    print("Hello")
+    x += 1
+}
